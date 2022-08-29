@@ -1,0 +1,13 @@
+{
+  "FEAT": 280,
+  "resources_type": {
+    "zip": {
+      "graphics_version": 5,
+      "min_version": "3.83.028"
+    },
+    "GameIcons": {
+      "graphics_version": 5,
+      "min_version": "3.91"
+    }
+  }
+}
