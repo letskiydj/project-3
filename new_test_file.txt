@@ -1,4 +1,8 @@
-213123213123
-asdasd
+{
+  "feature": "24",
+  "type": "js_collectible_features",
+  "JSversion": "4.11.007",
+  "GraphicVersion": 1,
+  "BuildID": "640"
+}
 
-asdas
